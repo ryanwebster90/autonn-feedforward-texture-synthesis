@@ -8,8 +8,10 @@ Implements two feedforward texture synthesis methods in [autonn](https://github.
 
 
 SGANS [1]
+
 ![SGANs](https://i.imgur.com/THtpVjL.jpg)
 
 This respository (with periodic boundaries)
+
 ![This repository](https://i.imgur.com/BAAzmGR.jpg)
 
