@@ -4,7 +4,7 @@ function G = train_texture_net(varargin)
 %
 % This file is made available under the terms of the MIT license.
 
-opts.N_iter = 50000;
+opts.N_iter = 5000;
 opts.batchsize = 1;
 opts.new_figure = true;
 opts.N_pool_vgg19 = 3; %No. of pooling layers for vgg19
